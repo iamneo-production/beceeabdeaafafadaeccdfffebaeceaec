@@ -3,10 +3,10 @@
 <b>CPU</b>
 </head>
 <body>
-<p><em><u><b>CPU</b>stands for Cental Processing Unit</u></em></p>
-<p>It is the portion of a<u>computer</u> system that carries</em></p>
-<p><em>out the instructions of a <u>computer</u> program.</em></p>
-<p><em>It carries out each instruction of the program in sequence,</em></p>
-<p><em>to perform the basic arithmetical,logical,and input/output operations of the system</em></p>
+<br><u><b>CPU</b>stands for <i>Cental Processing Unit</i></u></br>
+<br>It is the portion of a<u>computer</u> system that carries</br>
+<br>out the instructions of a <u>computer</u> program.</br>
+<br>It carries out each instruction of the program in sequence,</br>
+<br>to perform the basic arithmetical,logical,and input/output operations of the system</br>
 </body>
 </html>
